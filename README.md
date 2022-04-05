@@ -5,8 +5,8 @@
 - Install Rails and dependencies. Run `bundle install` in project directory.
 
 # Set up database
-- `bundle exec rake db:reset`
-- `bundle exec rake db:fixtures:load`
+- `bundle exec rails db:reset`
+- `bundle exec rails db:fixtures:load`
 
 # Run servers
 
@@ -25,6 +25,10 @@
 
 - Clone this repository.
 - Commit your changes.
+  - Create a new branch.
   - Commit code that is logically related.
   - Don't put everything in one commit. It's hard to review the changes if a commit is too big.
-- Zip your repository and email us the zip.
+- Push to your own repository.
+  - Create a new repository on GitHub. Make sure the repository is private.
+  - Push your branch.
+  - Add me to your project. My GitHub username is: hgani
